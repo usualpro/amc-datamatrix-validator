@@ -3,7 +3,7 @@ A utils for validate AMC datamatrix
 
 ## usage
 ```js 
-import { checkDataMatrix } from "./utils/datamatrix";
+import { checkDataMatrix } from "./datamatrix";
 
 checkDataMatrix({
  datamatrix: value,
